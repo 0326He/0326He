@@ -10,7 +10,7 @@
 "explain_array":[],
 "answer_array":["B"],
 "selected":false
-}
+},
 {"question_array":["可以流动的物理量称为流，如（）（）（）（）"],
 "author":"202109040326",
 "type":"fill_in",
@@ -18,7 +18,7 @@
 "explain_array":[],
 "answer_array":["质量流","热流","电流","速度流"],
 "selected":false
-}
+},
 {"question_array":["很多定律都存在着一种正比关系，以下哪些定律符合前文的描述",
 "A.傅里叶定律",
 "B.欧姆定律",
