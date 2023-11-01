@@ -10,7 +10,7 @@
 "explain_array":[],
 "answer_array":["A","D"],
 "selected":false
-}
+},
 {"question_array":["以下哪些元素是通过宇宙射线裂散形成的？",
 "A.H",
 "B.He",
@@ -22,7 +22,7 @@
 "explain_array":[],
 "answer_array":["C","D"],
 "selected":false
-}
+},
 {"question_array":["列举太阳系中的四个类地行星"],
 "author":"202109040326",
 "type":"fill_in",
