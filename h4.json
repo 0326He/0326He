@@ -6,7 +6,7 @@
 "explain_array":[],
 "answer_array":["瓦士利石","林伍德石"],
 "selected":false
-}
+},
 {"question_array":["对于单组分而言多项平衡意味着什么"],
 "author":"202109040326",
 "type":"essay",
@@ -14,7 +14,7 @@
 "explain_array":[],
 "answer_array":["所有相的温度压力及吉布斯自由能都相等"],
 "selected":false
-}
+},
 {"question_array":["请推导克拉柏龙方程"],
 "author":"202109040326",
 "type":"calculation",
