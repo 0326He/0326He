@@ -10,7 +10,7 @@
 "explain_array":[],
 "answer_array":["C"],
 "selected":false
-}
+},
 {"question_array":["计算弹性常数的两种方法"],
 "author":"202109040326",
 "type":"fill_in",
@@ -18,7 +18,7 @@
 "explain_array":[],
 "answer_array":["应力方法和能量方法"],
 "selected":false
-}
+},
 {"question_array":["什么是张量"],
 "author":"202109040326",
 "type":"glossary",
