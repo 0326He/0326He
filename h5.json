@@ -10,7 +10,7 @@
 "explain_array":[],
 "answer_array":["A","C"],
 "selected":false
-}
+},
 {"question_array":["四元体系，一个相可以用什么表示",
 "A.正三角形",
 "B.正四边形",
@@ -22,7 +22,7 @@
 "explain_array":[],
 "answer_array":["D"],
 "selected":false
-}
+},
 {"question_array":["对于一个体系有C个组分，P个相，假设每个相中的组分不合并，则最多可以写出()个独立变量"],
 "author":"202109040326",
 "type":"fill_in",
