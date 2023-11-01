@@ -10,7 +10,7 @@
 "explain_array":[],
 "answer_array":["A","B","D"],
 "selected":false
-}
+},
 {"question_array":["请用一句话简述测不准原理"],
 "author":"202109040326",
 "type":"essay",
@@ -18,7 +18,7 @@
 "explain_array":[],
 "answer_array":["一个基本粒子的动量和位置不能同时被测准"],
 "selected":false
-}
+},
 {"question_array":["请阐述泡利不相容原理"],
 "author":"202109040326",
 "type":"glossary",
