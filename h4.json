@@ -20,11 +20,11 @@
 "type":"calculation",
 "figure":"none",
 "explain_array":[],
-"answer_array":["第一个相dG1=V1dp-S1dT",
-"第二个相dG2=V2dp-S2dT",
-"相平衡条件dG1=dG2",
-"V1dp-S1dT=V2dp-S2dT",
-"dp/dt=(S1-S2)/(V1-V2)=ΔS/ΔV"]
+"answer_array":["第一个相 $dG1=V1dp-S1dT$ ",
+"第二个相 $dG2=V2dp-S2dT$ ",
+"相平衡条件 $dG1=dG2$ ",
+" $V1dp-S1dT=V2dp-S2dT$ ",
+" $dp/dt=(S1-S2)/(V1-V2)=ΔS/ΔV$ "]
 "selected":false
 }
 ]
