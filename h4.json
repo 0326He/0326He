@@ -15,16 +15,12 @@
 "answer_array":["所有相的温度压力及吉布斯自由能都相等"],
 "selected":false
 },
-{"question_array":["请推导克拉柏龙方程"],
+{"question_array":["对于单组分而言相律表达式为__,最多可以有几个相共存__,因为__"],
 "author":"202109040326",
-"type":"calculation",
+"type":"fill_in",
 "figure":"none",
-"explain_array":[],
-"answer_array":["第一个相 $dG_{1} =V_{1} dp-S_{1}dT$ ",
-"第二个相 $dG_{2}=V_{2}dp-S_{2}dT$ ",
-"相平衡条件 $dG_{1}=dG_{2}$ ",
-" $V_{1}dp-S_{1}dT=V_{2}dp-S_{2}dT$ ",
-" $dp/dt=(S_{1}-S_{2})/(V_{1}-V_{2})=\Delta S/\Delta V$ "]
+"explain_array":["基本上相律为F=C-P+2,单组分C=1且自由度不能为零"],
+"answer_array":["F=3-P","3","自由度F不能为0"],
 "selected":false
 }
 ]
